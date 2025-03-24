@@ -1,0 +1,3 @@
+[submodule "arch/datalanding"]
+	path = arch/datalanding
+	url = https://github.com/ppalit/terraform-azurerm-arch-datalanding.git
