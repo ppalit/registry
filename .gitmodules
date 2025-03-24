@@ -4,3 +4,6 @@
 [submodule "resources/storage_account"]
 	path = resources/storage_account
 	url = https://github.com/ppalit/terraform-azurerm-storage_account.git
+[submodule "resources/keyvault"]
+	path = resources/keyvault
+	url = https://github.com/ppalit/terraform-azurerm-keyvault.git
