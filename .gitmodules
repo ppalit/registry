@@ -1,3 +1,6 @@
 [submodule "arch/datalanding"]
 	path = arch/datalanding
 	url = https://github.com/ppalit/terraform-azurerm-arch-datalanding.git
+[submodule "resources/storage_account"]
+	path = resources/storage_account
+	url = https://github.com/ppalit/terraform-azurerm-storage_account.git
